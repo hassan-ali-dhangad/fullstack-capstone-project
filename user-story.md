@@ -3,10 +3,14 @@
 **Title:** [Title of the User Story]
 
 **As a** [type of user],
-**I want** [an action or feature],
+**I need** [an action or feature],
 **So that** [a benefit or value].
 
-## Acceptance Criteria (Gherkin)
+## Details and Assumptions
+* [Document what you know]
+* [Document any assumptions made]
+
+## Acceptance Criteria
 * **Given** [some initial context or precondition]
 * **When** [an event occurs or action is taken]
 * **Then** [an expected outcome or result happens]
